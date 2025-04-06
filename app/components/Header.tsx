@@ -11,7 +11,7 @@ const HeaderContainer = styled.header`
 `;
 
 const Title = styled.h2`
-  font-size: calc(20px + 20px);
+  font-size: calc(15px + 15px);
   font-weight: bold;
   padding: 10px;
 `;
