@@ -36,7 +36,7 @@ export default function AboutPage() {
       <ContentContainer>
         <Title>Welcome to Harvard Online Museum</Title>
         <Description>
-          The Museum was made by utilizing the Harvard Museum API. Explore and discover the historic artistry of Harvard's collections.
+          The Museum was made by utilizing the Harvard Museum API. Explore and discover the historic artistry collections.
         </Description>
       </ContentContainer>
     </PageContainer>
