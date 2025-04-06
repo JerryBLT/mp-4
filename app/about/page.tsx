@@ -24,20 +24,17 @@ const Title = styled.h1`
   color: black;
 `;
 
-const Description = styled.p`
-  font-size: calc(2px + 2vw);
-  color: black;
-  text-align: center;
-`;
+// const Description = styled.p`
+//   font-size: calc(2px + 2vw);
+//   color: black;
+//   text-align: center;
+// `;
 
 export default function AboutPage() {
   return (
     <PageContainer>
       <ContentContainer>
         <Title>Welcome to Harvard Online Museum</Title>
-        <Description>
-          The Museum was made by utilizing the Harvard Museum API. Explore and discover the historic artistry collections.
-        </Description>
       </ContentContainer>
     </PageContainer>
   );
